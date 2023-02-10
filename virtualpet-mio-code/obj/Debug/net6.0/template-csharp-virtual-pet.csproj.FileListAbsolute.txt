@@ -1,0 +1,15 @@
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\obj\Debug\net6.0\template-csharp-virtual-pet.csproj.AssemblyReference.cache
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\obj\Debug\net6.0\template-csharp-virtual-pet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\obj\Debug\net6.0\template-csharp-virtual-pet.AssemblyInfoInputs.cache
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\obj\Debug\net6.0\template-csharp-virtual-pet.AssemblyInfo.cs
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\obj\Debug\net6.0\template-csharp-virtual-pet.csproj.CoreCompileInputs.cache
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\bin\Debug\net6.0\template-csharp-virtual-pet.exe
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\bin\Debug\net6.0\template-csharp-virtual-pet.deps.json
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\bin\Debug\net6.0\template-csharp-virtual-pet.runtimeconfig.json
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\bin\Debug\net6.0\template-csharp-virtual-pet.dll
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\bin\Debug\net6.0\template-csharp-virtual-pet.pdb
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\obj\Debug\net6.0\template-csharp-virtual-pet.dll
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\obj\Debug\net6.0\refint\template-csharp-virtual-pet.dll
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\obj\Debug\net6.0\template-csharp-virtual-pet.pdb
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\obj\Debug\net6.0\template-csharp-virtual-pet.genruntimeconfig.cache
+C:\Visual Studio\WCCI_Repository(1)\virtualpet-mio-code\obj\Debug\net6.0\ref\template-csharp-virtual-pet.dll
